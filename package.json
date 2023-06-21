@@ -19,13 +19,15 @@
       "webpack-merge": "4.2.2",
       "typescript": "4.0.3",
       "webpack-dev-server": "3.11.0",
-      "css-loader": "4.2.1",
+      "css-loader": "5.2.7",
       "file-loader": "6.1.0",
       "extra-watch-webpack-plugin": "1.0.3",
       "lit-css-loader": "0.0.4",
       "extract-loader": "5.1.0",
       "babel-loader": "8.2.2",
-      "html-webpack-plugin": "4.5.2"
+      "html-webpack-plugin": "4.5.2",
+      "loader-utils": "2.0.4",
+      "@types/node": "18.14.0"
     },
     "hash": ""
   },
@@ -48,12 +50,14 @@
     "webpack-merge": "4.2.2",
     "typescript": "4.0.3",
     "webpack-dev-server": "3.11.0",
-    "css-loader": "4.2.1",
+    "css-loader": "5.2.7",
     "file-loader": "6.1.0",
     "extra-watch-webpack-plugin": "1.0.3",
     "lit-css-loader": "0.0.4",
     "extract-loader": "5.1.0",
     "babel-loader": "8.2.2",
-    "html-webpack-plugin": "4.5.2"
+    "html-webpack-plugin": "4.5.2",
+    "loader-utils": "2.0.4",
+    "@types/node": "18.14.0"
   }
 }
