@@ -96,6 +96,8 @@ import java.util.logging.Logger;
 @NpmPackage(value = "lit", version = "^2.6.1")
 public class VaadinCKEditor extends CustomField<String> implements HasConfig {
 
+    private static final long serialVersionUID = -2748445309122788220L;
+
     private String editorData;
 
     private static final Logger vaddinCKEditorLog = Logger.getLogger(VaadinCKEditor.class.getName());
