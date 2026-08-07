@@ -14,7 +14,7 @@
         <developerConnection>scm:git:git@https://github.com/eroself/vaadin-litelement-ckeditor.git</developerConnection>
     </scm>
     <properties>
-        <vaadin.version>14.14.3</vaadin.version>
+        <vaadin.version>14.11.13</vaadin.version>
         <vaadin-applayout-addon.version>4.0.0.rc5</vaadin-applayout-addon.version>
        <maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>

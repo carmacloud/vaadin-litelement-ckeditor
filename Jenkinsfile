@@ -11,7 +11,7 @@ pipeline {
     stages {
         stage('Preparation') {
             steps {
-                git url: 'https://github.com/carmacloud/vaadin-litelement-ckeditor.git', branch: 'upgrade14'
+                git url: 'https://github.com/carmacloud/vaadin-litelement-ckeditor.git', branch: 'master14'
             }
         }
         stage('Build') {
